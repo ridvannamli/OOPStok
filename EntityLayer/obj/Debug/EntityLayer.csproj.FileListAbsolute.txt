@@ -1,0 +1,6 @@
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache

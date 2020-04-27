@@ -1,0 +1,11 @@
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\OOPStok\OOPStok\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
